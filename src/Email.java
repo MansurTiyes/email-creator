@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Email {
     private String firstName; // John
     private String lastName; // Smith
+    private String middleName;
     private String password; // Your password is: ANJI*5J1NE
     private String department;
     private String email; // john.smith@sales.aecompany.com
